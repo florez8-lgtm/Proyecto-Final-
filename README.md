@@ -21,8 +21,8 @@ El proyecto utiliza las siguientes librerías de Python:
 ##Proyecto Realizado para la materia de DataXperience - Universidad EAN 2025 
 
 Nombres: 
-Lina Maria Vallejo 
-Nicolle Sophia Sarmiento 
-Maria Paula Yara 
+Lina Maria Vallejo, 
+Nicolle Sophia Sarmiento,
+Maria Paula Yara,
 Ayrin Florez Tellez 
 
