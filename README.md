@@ -19,6 +19,7 @@ El proyecto utiliza las siguientes librerías de Python:
   - `mean_absolute_error`, `mean_squared_error`, `r2_score`: métricas de evaluación.
  
 ##Proyecto Realizado para la materia de DataXperience - Universidad EAN 2025 
+
 Nombres: 
 Lina Maria Vallejo 
 Nicolle Sophia Sarmiento 
